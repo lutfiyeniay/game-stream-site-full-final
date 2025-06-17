@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Lütfi'nin Oyun Evreni",
-  description: "Yayınlar, incelemeler ve blog yazıları"
+  title: "lütfi denemei",
+  description: "zamazingo"
 };
 
 export default function RootLayout({ children }) {
